@@ -1,5 +1,7 @@
 '''
 Pandas is the key model for datascience
+this file is not working as some issue in my computer
+please refer to jupyter notebook
 '''
 import pandas as pd
 from pandas import DataFrame
