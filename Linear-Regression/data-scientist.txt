@@ -1,0 +1,20 @@
+data scientist
+Formulate questions based the files your working.In this case Movie
+    how much revenue will that our movie make?
+    overall movie budget?
+    can we use movie budget to predict movie revenue?
+    Revenue dependant variable, budget independent variable
+
+
+1. collect/gather data
+    Data on feature - movie budgets in USD
+    Data on target - movie revenue in USD
+2. clean data
+    cleaning for
+        Missing data
+        Incomplete data
+        inaccurate data
+        formatting
+3. explore/ visualize data
+4. Train algorithm(using computer identify pattern
+5. Evaluate the data
