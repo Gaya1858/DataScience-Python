@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 df = pd.read_csv("EcommercePurchases")
 df.head() #Check the head of the DataFrame.
 
