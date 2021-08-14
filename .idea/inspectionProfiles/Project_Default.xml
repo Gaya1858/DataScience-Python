@@ -1,0 +1,43 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+          <option value="E225" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="sum" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="one.depth" />
+          <option value="one.length" />
+          <option value="data" />
+          <option value="k" />
+          <option value="hashing.hashtable" />
+          <option value="file_ready" />
+          <option value="rec4.hashtable" />
+          <option value="game_data" />
+          <option value="art.*" />
+          <option value="question_model" />
+          <option value="RandomNumber" />
+          <option value="day19.randon_walk.randonG" />
+          <option value="pip.colorgram" />
+          <option value="snake.Snake" />
+          <option value="day23.main.score_board" />
+          <option value="day23.main.scoreboard" />
+          <option value="scoreboard" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

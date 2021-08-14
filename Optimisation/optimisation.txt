@@ -1,0 +1,31 @@
+Optimisation problems
+
+idea Optimisation
+technical modules 
+calculus
+Derivatives
+Loops
+Algorithms
+Optimisation algorithm called  - Gradient Descent
+
+How a mechine learn?
+
+LR = just used linear equation 
+here those that are beyond LR
+
+3 step machine learning process:
+ 
+1. make a prediction
+2. Calculating the error ( we need to measure how could the prediction)
+3. adjust our initial prediction ( learn from mistake)
+repea above steps again we have to go back to step1. using out new prediction we do the same things.(repeat until the machine get learning)
+    this is called machine learning model ( also called algorithm)
+    
+Introduction to Cost Functions
+
+how do we calculate the error exactly
+
+
+ 
+
+ 
