@@ -18,6 +18,18 @@ Formulate questions based the files your working.In this case Movie
 3. explore/ visualize data
     used pandas to read the CSV cleaned file and made X and Y columns
     using matplotlib.pyplot, created scatter plot.
-    tried some pyplot arguments like x, y labels , plot title, size and transparancy
+    tried some pyplot arguments like x, y labels , plot title, size and transparancy(alpha=0.3)
 4. Train algorithm(using computer identify pattern
+    linear regression equation y= mx+c
+    in ML hQ(x)(Q -theta) ---- y 
+          Q0 ---- intercept value (c)
+          Q1(x) ==== Q1 is slope(m)
+          when you fit line in the plot it is called fitted line
+          and points distance from the fitted line called residual line when you make a line in between
+          more- please check the handwrittten notes
+          library sklearn(scikit Learn)to do the linear regression 
+          regression.coef_ --- for slope value
+          regression.intercept_ --- for intercept value
+          regression.predict to plot fitted line on the plot
 5. Evaluate the data
+    
